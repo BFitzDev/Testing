@@ -7,6 +7,6 @@ public class Main {
 		System.out.println("Hi");
 		System.out.println("I'm a 2019 guy");
 		System.out.println("I don't need drugs to get high");
-		System.out.println("I have soylent and wine");
+		System.out.println("I respect girls by");
 	}
 }
